@@ -53,4 +53,4 @@ Follow the prompts to configure your new project.
 
 ## License
 
-MIT
+This project is licensed under the [MIT](LICENSE) license.
